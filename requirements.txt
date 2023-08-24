@@ -1,3 +1,5 @@
 pycoingecko
 requests
 pandas
+seaborn
+scipy
